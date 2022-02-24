@@ -1,0 +1,19 @@
+{
+  "name": "squid-cards-backend",
+  "version": "1.0.0",
+  "description": "Backend for the squid cards app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Squid",
+    "Cards",
+    "Flashcards"
+  ],
+  "author": "Zullu D. Balti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
